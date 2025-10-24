@@ -92,3 +92,6 @@ bash code/12_git_basics.sh             # DRY‑RUN by default when called by run
 - Add a smoke test for generated figures (existence/size check).
 - Add CI recipe to run `make validate-code` on pushes.
 
+## Disclaimer
+
+The scripts and guidance in this repository are provided for illustrative and educational purposes only. They are supplied “as is,” without warranty of any kind, express or implied, including but not limited to merchantability, fitness for a particular purpose, or non-infringement. Use of the code is at your own risk, and no guarantee is made that it is error-free, compliant with any regulations, or suitable for production use. By using these materials, you agree that neither the authors nor contributors shall be liable for any damages or losses arising from their use.

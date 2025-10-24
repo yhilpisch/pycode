@@ -61,4 +61,8 @@ python tools/validate_code.py --with-bash
 
 The materials are AI‑powered with GPT‑5 assistance and maintained for reliability and clarity.
 
+## Disclaimer
+
+This repository is provided "as is" for educational purposes. No warranties, guarantees, or representations of any kind are made regarding correctness, completeness, fitness for a particular purpose, or non‑infringement. Code and examples are intended for illustration and learning; they may omit production concerns (error handling, security, performance, robustness). Use at your own risk. Dependencies evolve over time; version changes can affect behavior or break examples.
+
 <img src="https://theaiengineer.dev/tae_logo_gw_flatter.png" width=35% align=right>
